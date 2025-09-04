@@ -1,3 +1,3 @@
 # New Project
 this project was created from local system .
-created by chandrapal singh 
+created by chandrapal singh .
